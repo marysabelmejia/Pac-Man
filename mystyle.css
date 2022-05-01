@@ -1,0 +1,11 @@
+body {
+  display: flex; /* Use Flexbox                    */
+  justify-content: center; /* Center Horizontally            */
+}
+.svg-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150%;
+  height: 150%;
+}
