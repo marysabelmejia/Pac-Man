@@ -25,7 +25,7 @@ Pac-Man lives! While learning to control the DOM, we moved two images across a s
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Load the html file onto your web browser and enjoy as Pac-Man moves across your screen! Change the speed by changing the time parameter of setInterval.
+Load the HTML file onto your web browser and enjoy as Pac-Man moves across your screen! Change the speed by changing the time parameter of setInterval.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
