@@ -17,16 +17,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pac-Man lives! Learning to control the DOM, while simulating a hungry Pac-Man and getting him to reverse direction. Super Fun!
+Pac-Man lives! While learning to control the DOM, we moved two images across a screen in each direction, simulating a hungry Pac-Man and getting him to reverse direction. In addition, I modified the background color to more closely resemble the original game.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Info someone would use to get started running your project on their machine
+Load the html file onto your web browser and enjoy as Pac-Man moves across your screen! Change the speed by changing the time parameter of setInterval.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -35,8 +34,10 @@ Info someone would use to get started running your project on their machine
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] What you plan to work on next in this repo
-- [ ] 
+- [X] Change background color
+- [ ] Add dots to resemble Pac-Man maze
+- [ ] Add additional parameters
+- [ ] Create different colored PacMen
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
